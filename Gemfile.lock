@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     CFPropertyList (2.3.1)
-    addressable (2.3.5)
+    addressable (~> 2.3.5)
     atomic (1.1.14)
     aws-ses (0.5.0)
       builder
